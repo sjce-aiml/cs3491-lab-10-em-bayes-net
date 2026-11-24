@@ -4,6 +4,9 @@
 
 ▶️ **Watch first:** [Lab 10 walkthrough](https://www.youtube.com/@DrAnandharajan) · 📗 **Lesson & quiz:** [https://anandharajan.github.io/gradient-edu/#lab-10](https://anandharajan.github.io/gradient-edu/#lab-10)
 
+📘 **Lab manual (Ex.No 10):** record notes [Ex.No10.txt](https://github.com/Anandharajan/AIML_Lab/blob/main/experiments/Ex10_EM_Bayesian/Ex.No10.txt). Use them for Aim/Procedure in REPORT.md and your record. The reference program unlocks in the app once you score 60%.
+
+
 ## Your task
 Open `src/lab10.py` and implement every function marked `TODO`. Do **not** rename functions or
 change their parameters — the autograder calls them exactly as written.
